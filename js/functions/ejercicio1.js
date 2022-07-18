@@ -7,5 +7,7 @@ function cadenaDeTexto(numero){
         document.write("El numero es impar.<br>");
     }
 }
-cadenaDeTexto(parseInt(prompt("Elije un numero")));
+cadenaDeTexto(parseInt(prompt("Elije un numero entero")));
+
+
 
